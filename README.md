@@ -1,1 +1,1 @@
-# training-shade-sdk
+# Using Shade to communicate with OpenStack APIs
